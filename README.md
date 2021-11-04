@@ -1,2 +1,2 @@
-# dummpy_caffe
-rewrite or copy caffe
+# dummpy_centernet
+copy centernet
